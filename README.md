@@ -4,7 +4,7 @@
 
 A Front-end developer with 4 years of experience and a strong foundation in Android development, specializing in Java, Kotlin, and Jetpack Compose.
 
-Currently participating in the European Solidarity Corps (ESC) volunteer program in Portugal. This experience has provided the opportunity to expand technical expertise by working with React, Node.js, and Firebase. Actively involved in redesigning and modernizing the website of Centro Social de Ermesinde (cse.pt) as part of the volunteer work.
+Currently participating in the European Solidarity Corps (ESC) volunteer program in Portugal. This experience has provided the opportunity to expand technical expertise by working with React, Node.js, and Firebase. Actively involved in redesigning and modernizing the website of [Centro Social de Ermesinde](https://cse.pt) as part of the volunteer work.
 
 Proficient in MySQL, Room, and Firebase database technologies, with a strong grasp of clean architecture and the MVVM design pattern. Skilled in front-end development and dedicated to creating user-friendly and visually appealing web and mobile applications.
 
