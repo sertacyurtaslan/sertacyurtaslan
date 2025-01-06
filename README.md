@@ -1,4 +1,4 @@
-#👨‍💻 Sertaç Yurtaslan
+# 🏄‍♂️ Sertaç Yurtaslan
 
 **`Front-end Developer (Android/Web)`**
 
@@ -8,7 +8,7 @@ Currently participating in the European Solidarity Corps (ESC) volunteer program
 
 Proficient in MySQL, Room, and Firebase database technologies, with a strong grasp of clean architecture and the MVVM design pattern. Skilled in front-end development and dedicated to creating user-friendly and visually appealing web and mobile applications.
 
----
+
 
 ## 🧰 Languages and Tools:
 
@@ -23,6 +23,7 @@ Proficient in MySQL, Room, and Firebase database technologies, with a strong gra
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
 
 ## 🚀 My Projects:
 
