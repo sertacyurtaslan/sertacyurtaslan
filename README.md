@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sertaç Yurtaslan
+# 👨‍💻 Sertaç Yurtaslan
 
 **`Front-end Developer (Android/Web)`**
 
