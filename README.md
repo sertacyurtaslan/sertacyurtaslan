@@ -1,16 +1,44 @@
-## Hi there 👋
+#👨‍💻 Sertaç Yurtaslan
 
-<!--
-**sertacyurtaslan/sertacyurtaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Front-end Developer (Android/Web)`**
 
-Here are some ideas to get you started:
+A Front-end developer with 4 years of experience and a strong foundation in Android development, specializing in Java, Kotlin, and Jetpack Compose.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently participating in the European Solidarity Corps (ESC) volunteer program in Portugal. This experience has provided the opportunity to expand technical expertise by working with React, Node.js, and Firebase. Actively involved in redesigning and modernizing the website of Centro Social de Ermesinde (cse.pt) as part of the volunteer work.
+
+Proficient in MySQL, Room, and Firebase database technologies, with a strong grasp of clean architecture and the MVVM design pattern. Skilled in front-end development and dedicated to creating user-friendly and visually appealing web and mobile applications.
+
+---
+
+## 🧰 Languages and Tools:
+
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
+<img align="left" alt="Jetpack Compose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-plain.svg" />
+<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+
+## 🚀 My Projects:
+
+### Financely
+
+Financely app developed with Firebase, coroutines, Jetpack Compose, and Material3 components
+
+It's about to be released in the Google Play Store soon!
+
+![App Photo](https://raw.githubusercontent.com/ibrahim4851/MyRecipes/main/photos/githubshowcase.jpg)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sertacyurtaslan&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sertacyurtaslan&theme=dracula)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sertacyurtaslan&theme=dracula&exclude=typescript)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sertacyurtaslan&theme=dracula&exclude=typescript)
+
