@@ -30,9 +30,9 @@ Proficient in MySQL, Room, and Firebase database technologies, with a strong gra
 
 ## 🚀 My Projects:
 
-### Financely
+### Kaferest
 
-Financely app developed with Firebase, coroutines, Jetpack Compose, and Material3 components
+Kaferest app developed with Firebase, coroutines, Jetpack Compose, and Material3 components
 
 It's about to be released in the Google Play Store soon!
 
