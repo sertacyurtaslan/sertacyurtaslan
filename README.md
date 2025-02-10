@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=30DC72&center=true&vCenter=true&width=800&height=100&lines=I'm+an+Android+Developer;I'm+a+Web+Developer;I'm+a+Front-end+Developer;I'm+a+Problem+Solver" alt="Headline" />
 </div>
 
-A Front-end developer with 4 years of experience and a strong foundation in Android development, specializing in Java, Kotlin, and Jetpack Compose.
+A Front-end developer with 4 years of experience and a strong foundation in Android development, specializing in Java, Kotlin, and Jetpack Compose. Proficient in MySQL, Room, and Firebase database technologies, with a strong grasp of clean architecture and the MVVM design pattern. Skilled in front-end development and dedicated to creating user-friendly and visually appealing web and mobile applications.
 
 Currently participating in the European Solidarity Corps (ESC) volunteer program in Portugal. This experience has provided the opportunity to expand technical expertise by working with React, Node.js, and Firebase. Actively involved in redesigning and modernizing the website of [Centro Social de Ermesinde](https://cse.pt) as part of the volunteer work.
 
-Proficient in MySQL, Room, and Firebase database technologies, with a strong grasp of clean architecture and the MVVM design pattern. Skilled in front-end development and dedicated to creating user-friendly and visually appealing web and mobile applications.
+
 
 
 
