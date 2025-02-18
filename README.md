@@ -36,7 +36,7 @@ Kaferest app developed with Firebase, coroutines, Jetpack Compose, and Material3
 
 It's about to be released in the Google Play Store soon!
 
-![App Photo](https://raw.githubusercontent.com/sertacyurtaslan/Kaferest/main/photos/githubshowcase.jpg)
+![App Photo](https://raw.githubusercontent.com/sertacyurtaslan/Kaferest/blob/master/photos/githubshowcase.jpg)
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sertacyurtaslan&theme=dracula)
